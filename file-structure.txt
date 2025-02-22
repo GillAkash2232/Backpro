@@ -1,0 +1,18 @@
+server folder
+    -controllers
+        -auth-controller.js
+        -contact-controller.js
+    -middlewares
+        -error-middleware.js
+        -validate-middleware.js
+    -models
+        -contact-model.js
+        -user-model.js
+    -routes
+        -auth-route.js
+        -contact-route.js
+    -utils
+        -db.js
+    -validators
+        -auth-validator.js
+-server.js
